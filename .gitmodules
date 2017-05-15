@@ -7,3 +7,6 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/bufexplorer"]
 	path = vim_runtime/pack/sources_non_forked/start/bufexplorer
 	url = git@github.com:jlanzarotta/bufexplorer.git
+[submodule "vim_runtime/pack/sources_non_forked/start/nerdtree"]
+	path = vim_runtime/pack/sources_non_forked/start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
