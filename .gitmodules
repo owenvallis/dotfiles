@@ -4,3 +4,6 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/vim-colors-solarized"]
 	path = vim_runtime/pack/sources_non_forked/start/vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "vim_runtime/pack/sources_non_forked/start/bufexplorer"]
+	path = vim_runtime/pack/sources_non_forked/start/bufexplorer
+	url = git@github.com:jlanzarotta/bufexplorer.git
