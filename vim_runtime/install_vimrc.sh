@@ -4,6 +4,7 @@ set -e
 cd ~/dotfiles/vim_runtime
 
 echo 'set runtimepath+=~/dotfiles/vim_runtime
+set packpath+=~/dotfiles/vim_runtime
 
 source ~/dotfiles/vim_runtime/vimrcs/vimrc.vim
 source ~/dotfiles/vim_runtime/vimrcs/filetypes.vim
