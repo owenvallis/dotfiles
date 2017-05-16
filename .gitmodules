@@ -22,3 +22,12 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/YouCompleteMe"]
 	path = vim_runtime/pack/sources_non_forked/start/YouCompleteMe
 	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "vim_runtime/pack/sources_non_forked/start/ale"]
+	path = vim_runtime/pack/sources_non_forked/start/ale
+	url = git@github.com:w0rp/ale.git
+[submodule "vim_runtime/pack/sources_non_forked/start/vim-repeat"]
+	path = vim_runtime/pack/sources_non_forked/start/vim-repeat
+	url = git@github.com:tpope/vim-repeat.git
+[submodule "vim_runtime/pack/sources_non_forked/start/vim-commentary"]
+	path = vim_runtime/pack/sources_non_forked/start/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
