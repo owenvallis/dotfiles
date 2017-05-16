@@ -19,3 +19,6 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/ctrlp"]
 	path = vim_runtime/pack/sources_non_forked/start/ctrlp
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "vim_runtime/pack/sources_non_forked/start/YouCompleteMe"]
+	path = vim_runtime/pack/sources_non_forked/start/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
