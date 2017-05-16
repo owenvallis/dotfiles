@@ -28,3 +28,6 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/vim-commentary"]
 	path = vim_runtime/pack/sources_non_forked/start/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "vim_runtime/pack/sources_non_forked/start/vim-vinegar"]
+	path = vim_runtime/pack/sources_non_forked/start/vim-vinegar
+	url = git@github.com:tpope/vim-vinegar.git
