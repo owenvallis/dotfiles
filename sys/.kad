@@ -1,0 +1,2 @@
+# point to local copy of KAD
+export PYTHONPATH=~/workspace/science/libraries/python/kad

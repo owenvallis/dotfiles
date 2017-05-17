@@ -1,0 +1,23 @@
+# useful aliases and shortcuts
+
+# typo and shortcuts
+alias ls="ls -Gp"
+alias l="ls -Gp"
+alias s="ls -Gp"
+alias vi="vim"
+alias sbash=". ~/.bash_profile"
+
+# start jupyter
+alias jpy="jupyter qtconsole &"
+
+# start ipython kernal
+alias ipkern="ipython kernel >/dev/null 0<&1 &"
+
+# remove compiled py files
+alias rmpyc="find . | grep -E '(__pycache__|\.pyc|\.pyo$)' | xargs rm -rf"
+
+# directories and files
+alias vimrc="vim ~/dotfiles/vimrc"
+alias bashrc="vim ~/dotfiles/bashrc"
+alias dot="cd ~/dotfiles"
+alias ws="cd ~/workspace"
