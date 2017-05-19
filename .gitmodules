@@ -31,3 +31,6 @@
 [submodule "vim_runtime/pack/sources_non_forked/start/vim-vinegar"]
 	path = vim_runtime/pack/sources_non_forked/start/vim-vinegar
 	url = git@github.com:tpope/vim-vinegar.git
+[submodule "vim_runtime/pack/sources_non_forked/start/delimitMate"]
+	path = vim_runtime/pack/sources_non_forked/start/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
