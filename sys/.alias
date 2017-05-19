@@ -16,6 +16,9 @@ alias ipkern="ipython kernel >/dev/null 0<&1 &"
 # remove compiled py files
 alias rmpyc="find . | grep -E '(__pycache__|\.pyc|\.pyo$)' | xargs rm -rf"
 
+# start eclim server
+alias eclimd="/Applications/Eclipse.app/Contents/Eclipse/eclimd"
+
 # directories and files
 alias vimrc="vim ~/dotfiles/vimrc"
 alias bashrc="vim ~/dotfiles/bashrc"
