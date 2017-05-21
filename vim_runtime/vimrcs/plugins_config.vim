@@ -40,3 +40,12 @@ let g:slime_python_ipython = 1
 if exists('$TMUX')
     let g:slime_default_config = {"socket_name": split($TMUX, ",")[0], "target_pane": ":.2"}
 endif
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => delimiteMate
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" Jump to the end of the line in insert mode
+" Used to get exit auto-closed chars inserted 
+" by delimitMate
+inoremap <leader>e <C-o>A
