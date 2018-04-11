@@ -31,6 +31,7 @@
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+execute pathogen#infect('~/dotfiles/vim_runtime/pack/sources_non_forked/start/{}')
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
